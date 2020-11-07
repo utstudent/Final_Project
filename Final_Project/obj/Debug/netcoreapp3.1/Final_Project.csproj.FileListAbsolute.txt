@@ -1,0 +1,5 @@
+/Users/talhakaran/Desktop/School/MIS 333K/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.csprojAssemblyReference.cache
+/Users/talhakaran/Desktop/School/MIS 333K/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.AssemblyInfoInputs.cache
+/Users/talhakaran/Desktop/School/MIS 333K/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.AssemblyInfo.cs
+/Users/talhakaran/Desktop/School/MIS 333K/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.csproj.CoreCompileInputs.cache
+/Users/talhakaran/Desktop/School/MIS 333K/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.MvcApplicationPartsAssemblyInfo.cache
