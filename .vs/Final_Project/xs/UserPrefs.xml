@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{05BE94CD-E441-49E5-ADC8-44B6F9B885BE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Final_Project/Models/Showing.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Final_Project/Models/Price.cs">
     <Files>
-      <File FileName="Final_Project/Models/Price.cs" Line="25" Column="29" />
-      <File FileName="Final_Project/Models/Genre.cs" />
+      <File FileName="Final_Project/Models/Price.cs" Line="29" Column="69" />
+      <File FileName="Final_Project/Models/Genre.cs" Line="13" Column="1" />
       <File FileName="Final_Project/Models/Order.cs" />
       <File FileName="Final_Project/Models/Ticket.cs" />
       <File FileName="Final_Project/Models/Showing.cs" Line="1" Column="1" />
@@ -13,7 +13,7 @@
           <Node name="Final_Project" expanded="True">
             <Node name="Final_Project" expanded="True">
               <Node name="Models" expanded="True">
-                <Node name="Showing.cs" selected="True" />
+                <Node name="Price.cs" selected="True" />
               </Node>
             </Node>
           </Node>
